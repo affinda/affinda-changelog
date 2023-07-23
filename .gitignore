@@ -1,0 +1,7 @@
+*
+
+# Only include these files
+!.gitignore
+!CHANGELOG.md
+!README.md
+
