@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.1.3] - 2023-07-31
+### Fixed
+- Various backend bug fixes
+
 ## [6.1.2] - 2023-07-28
 ### Changed
 - Better signup flow for bullhorn integration
