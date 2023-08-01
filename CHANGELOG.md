@@ -6,6 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.2.0] - 2023-08-01
+### Added
+- Support for nested field configurations
+- GPT parsing for picklists, nested fields, multiple fields, and rectless fields.
+
+### Changed
+- Improved handling for ingestion of documents via email
+
 ## [6.1.4] - 2023-07-31
 ### Fixed
 - Improved email sender handling
