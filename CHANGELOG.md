@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.2.5] - 2023-08-03
+### Added
+- Better filename handling
+
+### Fixed
+- Various bug fixes
+
 ## [6.2.4] - 2023-08-02
 ### Changed
 - Improved logging
