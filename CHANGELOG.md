@@ -6,6 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.2.2] - 2023-08-02
+### Changed
+- Improved rate limiting for custom extractors
+
+## [6.2.1] - 2023-08-01
+### Fixed
+- Various backend bug fixes
+
 ## [6.2.0] - 2023-08-01
 ### Added
 - Support for nested field configurations
