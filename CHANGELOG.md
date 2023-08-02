@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.2.3] - 2023-08-02
+### Added
+- Additional setup for automatic document sorting
+
+### Fixed
+- Bullhorn bug fixes
+
 ## [6.2.2] - 2023-08-02
 ### Changed
 - Improved rate limiting for custom extractors
