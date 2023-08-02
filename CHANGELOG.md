@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.2.6] - 2023-08-03
+### Fixed
+- Magic tables bug fix that was causing row items not to be visible
+
 ## [6.2.5] - 2023-08-03
 ### Added
 - Better filename handling
