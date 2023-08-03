@@ -6,6 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.2.7] - 2023-08-03
+### Fixed
+- Fixed issue where renaming table fields could remove nested fields
+
+### Added
+- Show in the validation tool if a document has been split
+- Show in the document list if a document has been split
+
 ## [6.2.6] - 2023-08-03
 ### Fixed
 - Magic tables bug fix that was causing row items not to be visible
