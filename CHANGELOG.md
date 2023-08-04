@@ -6,6 +6,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.2.9] - 2023-08-04
+### Changed
+- Only use documents within selected collection when parsing with GPT-4
+- Improved grouping of annotations when using group annotation types.
+- When words contain a forward slash, split them into two words
+
+### Fixed
+- Backend bug fixes
+- Handle error with unidentified images
+- Fix null handling in resume sections
+- Improve handling for scenario when two tables are shown side by side
+- Parse quantities annotated as "free" as 0
+
 ## [6.2.8] - 2023-08-03
 ### Removed
 - Removed legacy Azure OCR service
