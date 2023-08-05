@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.3.2] - 2023-08-05
+### Fixed
+- Minor backend bug fixes
+
 ## [6.3.1] - 2023-08-05
 ### Fixed
 - Better handling of huge images during OCR
