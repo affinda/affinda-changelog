@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.3.1] - 2023-08-05
+### Fixed
+- Better handling of huge images during OCR
+- Improved parsing of dates from text
+
 ## [6.3.0] - 2023-08-04
 ### Removed
 - Removed deprecated db tables
