@@ -6,6 +6,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.3.3] - 2023-08-08
+### Added
+- Allow users to add data points that don't have bounding boxes on the page
+
+### Fixed
+- Improved document sorting algorithm
+- Improved construction of nested annotations
+- More graceful handling of errors around currencies
+- Other backend bug fixes
+- Fix bug in scenario where document does not have a workspace specified
+
 ## [6.3.2] - 2023-08-05
 ### Fixed
 - Minor backend bug fixes
