@@ -6,6 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.3.4] - 2023-08-08
+### Changed
+- Improved logging
+
+### Fixed
+- Improved performance in annotation handling (stage 1)
+- Various backend bug fixes
+
 ## [6.3.3] - 2023-08-08
 ### Added
 - Allow users to add data points that don't have bounding boxes on the page
