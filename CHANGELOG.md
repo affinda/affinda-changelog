@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.3.7] - 2023-08-10
+### Added
+- Allow magic table fill to be turned off at a workspace level by administrators
+
 ## [6.3.6] - 2023-08-09
 ### Added
 - Emphasise new field button when collection has no fields
