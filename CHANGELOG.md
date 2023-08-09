@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.3.6] - 2023-08-09
+### Added
+- Emphasise new field button when collection has no fields
+
+### Fixed
+- Minor backend bug fixes
+
 ## [6.3.5] - 2023-08-09
 ### Changed
 - Fields that can be selected multiple times are no longer greyed out after a single selection
