@@ -6,6 +6,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.3.5] - 2023-08-09
+### Changed
+- Fields that can be selected multiple times are no longer greyed out after a single selection
+
+### Fixed
+- Fixed an issue preventing reordering fields
+- Make it easier to discover the configure fields button
+- Fixes to usage tracking
+- Improvements to magic tables
+- Improvements to custom field predictions
+
 ## [6.3.4] - 2023-08-08
 ### Changed
 - Improved logging
