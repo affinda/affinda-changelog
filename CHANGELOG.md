@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.3.10] - 2023-08-11
+### Fixed
+- Improved GPT error handling
+
 ## [6.3.9] - 2023-08-10
 ### Fixed
 - Minor backend fixes
