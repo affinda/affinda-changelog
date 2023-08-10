@@ -6,6 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.3.8] - 2023-08-10
+### Fixed
+- Fixed issue where identical annotations on different pages were not being rendered
+
+### Added
+- Automatically close field editor when drawing new annotations
+- Improved performance for detecting large text spans with openAI
+
 ## [6.3.7] - 2023-08-10
 ### Added
 - Allow magic table fill to be turned off at a workspace level by administrators
