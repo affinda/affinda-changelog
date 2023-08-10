@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.3.9] - 2023-08-10
+### Fixed
+- Minor backend fixes
+
 ## [6.3.8] - 2023-08-10
 ### Fixed
 - Fixed issue where identical annotations on different pages were not being rendered
