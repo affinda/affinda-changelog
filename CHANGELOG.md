@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.3.11] - 2023-08-14
+### Fixed
+- Backend bug fixes relating to annotation display for rotated documents
+
 ## [6.3.10] - 2023-08-11
 ### Fixed
 - Improved GPT error handling
