@@ -6,6 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.3.12] - 2023-08-15
+### Fixed
+- Better error handling
+- Improved table detection
+
+### Added
+- Free tool improvements
+
 ## [6.3.11] - 2023-08-14
 ### Fixed
 - Backend bug fixes relating to annotation display for rotated documents
