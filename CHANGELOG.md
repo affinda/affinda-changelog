@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.3.15] - 2023-08-16
+### Fixed
+- Fix for bullhorn authentication flow
+
 ## [6.3.14] - 2023-08-16
 ### Fixed
 - Small fixes to frontend tool UI
