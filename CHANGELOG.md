@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.3.14] - 2023-08-16
+### Fixed
+- Small fixes to frontend tool UI
+- Fix for bullhorn authentication flow
+
 ## [6.3.13] - 2023-08-16
 ### Added
 - When a model is fine-tuned, we now reparse up to 100 unvalidated documents to take advantage of the improved model
