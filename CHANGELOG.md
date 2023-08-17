@@ -6,6 +6,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.3.18] - 2023-08-17
+### Added
+- better metrics
+- admin action to reactivate webhooks
+
+### Fixed
+- bullhorn allow redirects by default
+- django infinite recursion
+- CELERY_TASK_ALWAYS_EAGER = 0 by default in docker compose
+
 ## [6.3.17] - 2023-08-16
 ### Fixed
 - Fix follow redirect in fetch_access_refresh_from_auth -- bullhorn
