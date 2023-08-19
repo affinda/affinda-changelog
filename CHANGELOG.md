@@ -8,7 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [6.3.19] - 2023-08-19
 ### Fixed
-- Signficant speed improvements for parsing with OpenAI
+- Significant speed improvements for parsing with OpenAI
 
 ## [6.3.18] - 2023-08-17
 ### Fixed
