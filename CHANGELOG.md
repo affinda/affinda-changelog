@@ -6,27 +6,25 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [6.3.18] - 2023-08-17
-### Added
-- better metrics
-- admin action to reactivate webhooks
-
+## [6.3.19] - 2023-08-19
 ### Fixed
-- bullhorn allow redirects by default
-- django infinite recursion
-- CELERY_TASK_ALWAYS_EAGER = 0 by default in docker compose
+- Signficant speed improvements for parsing with OpenAI
+
+## [6.3.18] - 2023-08-17
+### Fixed
+- Fixes to bullhorn integration authentication flow
 
 ## [6.3.17] - 2023-08-16
 ### Fixed
-- Fix follow redirect in fetch_access_refresh_from_auth -- bullhorn
+- Minor bug fixes
 
 ## [6.3.16] - 2023-08-16
 ### Fixed
-- Fix bullhorn typing issue
+- Minor bug fixes
 
 ## [6.3.15] - 2023-08-16
 ### Fixed
-- Fix for bullhorn authentication flow
+- Minor bug fixes
 
 ## [6.3.14] - 2023-08-16
 ### Fixed
