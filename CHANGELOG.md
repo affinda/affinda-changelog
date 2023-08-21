@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.3.21] - 2023-08-21
+### Fixed
+- Fixed custom receipt table parsing
+
 ## [6.3.20] - 2023-08-21
 ### Fixed
 - Improve document upload experience in free tool
