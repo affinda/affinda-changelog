@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.3.20] - 2023-08-21
+### Fixed
+- Improve document upload experience in free tool
+- Allow users with customised models to parse at a higher rate
+
 ## [6.3.19] - 2023-08-19
 ### Fixed
 - Significant speed improvements for parsing with OpenAI
