@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.4.0] - 2023-08-23
+### Added
+- Stabilization for search scores
+
 ## [6.3.21] - 2023-08-21
 ### Fixed
 - Fixed custom receipt table parsing
