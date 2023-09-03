@@ -6,9 +6,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.5.0] - 2023-09-04
+### Added
+- Allow users to see when non-base extractors were last trained
+- Allow users to control if a collection trains its (non-base) extractor
+- Add field and datapoint to the annotation deleted front-end event.
+
+### Fixed
+- Fixed issue with new table fields not displaying correctly in the field config editor
+
 ## [6.4.0] - 2023-08-23
 ### Added
-- Stabilization for search scores
+- Stabilization for search scores.
 
 ## [6.3.21] - 2023-08-21
 ### Fixed
