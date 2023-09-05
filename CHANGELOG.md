@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.6.0] - 2023-09-05
+### Added
+- Added setting to workspace settings allowing users to control the sensitivity of the document splitting model
+
+### Changed
+- Enable users to zoom in on documents in the splitting interface by clicking on the thumbnail
+
 ## [6.5.0] - 2023-09-04
 ### Added
 - Allow users to see when non-base extractors were last trained
