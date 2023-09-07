@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.7.0] - 2023-09-08
+### Changed
+- Significant overhaul of the new (Beta) tables interface to improve stability and user experience
+
 ## [6.6.0] - 2023-09-05
 ### Added
 - Added setting to workspace settings allowing users to control the sensitivity of the document splitting model
