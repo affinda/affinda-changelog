@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.8.0] - 2023-09-12
+### Changed
+- Rebrand for consistency with new frontend website
+- Added new validation tool config to disable currency formatting of decimal values
+- Added requirement for valid currencyCode field+value for Invoices, Receipts and Credit Notes
+
 ## [6.7.0] - 2023-09-08
 ### Changed
 - Significant overhaul of the new (Beta) tables interface to improve stability and user experience
