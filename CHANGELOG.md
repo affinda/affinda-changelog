@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.9.0] - 2023-09-14
+### Changed
+- Made it easier to discover the change collection menu
+
 ## [6.8.0] - 2023-09-12
 ### Changed
 - Rebrand for consistency with new frontend website
