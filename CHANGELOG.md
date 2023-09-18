@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.10.0] - 2023-09-18
+### Changed
+- Improved queuing algorithm for a smoother bulk parsing experience
+
+### Fixed
+- Implemented stricter limits on email uploads
+
 ## [6.9.0] - 2023-09-14
 ### Changed
 - Made it easier to discover the change collection menu
