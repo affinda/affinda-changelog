@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.11.0] - 2023-09-27
+### Added
+- Improved usability of field configuration dialog
+- Added ability to configure dropdown field options and text field automatic matching
+
 ## [6.10.0] - 2023-09-18
 ### Changed
 - Improved queuing algorithm for a smoother bulk parsing experience
