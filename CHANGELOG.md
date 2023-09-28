@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.13.0] - 2023-09-28
+### Changed
+- Enable annotations to be drawn across multiple pages
+
 ## [6.12.0] - 2023-09-28
 ### Changed
 - Migrated several confirmation dialogs to be in-app instead of using browser dialogs
