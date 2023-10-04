@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.14.0] - 2023-10-05
+### Changed
+- New invoice collection will now use the new "magic tables" interface by default.
+- Documentation can be found [here](https://docs.affinda.com/docs/magic-tables).
+
 ## [6.13.0] - 2023-09-28
 ### Changed
 - Enable annotations to be drawn across multiple pages
