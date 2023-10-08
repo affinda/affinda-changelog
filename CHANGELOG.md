@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.15.0] - 2023-10-09
+### Added
+- Added hideSidePanel option for resume and job search tools
+
 ## [6.14.0] - 2023-10-05
 ### Changed
 - New invoice collection will now use the new "magic tables" interface by default.
