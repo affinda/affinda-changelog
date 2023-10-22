@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.16.0] - 2023-10-23
+### Changed
+- Document.identifier has been made globally unique, and replaced with customIdentifier where users would like topass through their own identifiers for a document.
+
 ## [6.15.0] - 2023-10-09
 ### Added
 - Added hideSidePanel option for resume and job search tools
