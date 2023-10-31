@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.17.0] - 2023-10-31
+### Fixed
+- Fixed issue where incorrect currency values could be introduced for some currency codes
+
 ## [6.16.0] - 2023-10-23
 ### Changed
 - Document.identifier has been made globally unique, and replaced with customIdentifier where users would like topass through their own identifiers for a document.
