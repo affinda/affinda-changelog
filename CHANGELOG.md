@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.19.0] - 2023-11-03
+### Fixed
+- Fixed error when selecting a choice for a rectless field
+- Fixed an issue where the selection of the next unconfirmed annotation was being immediately undone
+
 ## [6.18.0] - 2023-11-02
 ### Fixed
 - Significant performance improvements in the validation tool for large and complex documents
