@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.18.0] - 2023-11-02
+### Fixed
+- Significant performance improvements in the validation tool for large and complex documents
+
+### Changed
+- More clearly de-emphasise other non-child annotations when focussing on a group or table
+
 ## [6.17.0] - 2023-10-31
 ### Fixed
 - Fixed issue where incorrect currency values could be introduced for some currency codes
