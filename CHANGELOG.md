@@ -6,6 +6,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.21.0] - 2023-11-13
+### Added
+- Show organization ID in settings
+
+### Changed
+- Make document table row controls and customize column buttons sticky
+
+### Fixed
+- Annotation confirmed event not triggered by sidebar
+
 ## [6.20.0] - 2023-11-06
 ### Fixed
 - Fixed error when selecting a choice for a rectless field
