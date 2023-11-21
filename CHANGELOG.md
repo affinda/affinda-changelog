@@ -6,6 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.22.0] - 2023-11-21
+### Added
+- New framework for managing taxonomies.  In the field editor dialogue you can now choose between available taxonomies
+- for a given field.  New taxonomies can be added via the API or the field editor.
+
+### Changed
+- Ability to change the datatype of a field after creation.
+
 ## [6.21.0] - 2023-11-13
 ### Added
 - Show organization ID in settings
