@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.23.0] - 2023-12-01
+### Changed
+- Custom field creation UI visibility can be controlled at an organisational level
+- Requesting tailored models is now only available for collections in the AP category
+
 ## [6.22.0] - 2023-11-21
 ### Added
 - New framework for managing taxonomies.  In the field editor dialogue you can now choose between available taxonomies
