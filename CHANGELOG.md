@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.24.0] - 2024-01-09
+### Added
+- Enum detail popover. Hover the information icon to see and copy value details
+
 ## [6.23.0] - 2023-12-01
 ### Changed
 - Custom field creation UI visibility can be controlled at an organisational level
