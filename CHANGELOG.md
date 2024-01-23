@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.25.0] - 2024-01-24
+### Fixed
+- Fixed rectless annotations should inherit the pageIndex of their parent if they have one
+
 ## [6.24.0] - 2024-01-09
 ### Added
 - Enum detail popover. Hover the information icon to see and copy value details
