@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.27.0] - 2024-02-05
+### Added
+- First release of collection-level validation rules
+
 ## [6.26.0] - 2024-02-02
 ### Fixed
 - Fixed being able to add fields to tables when custom fields are disabled
