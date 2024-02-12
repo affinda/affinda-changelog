@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.28.0] - 2024-02-12
+### Added
+- Add types for search tool theme config
+
+### Fixed
+- Fix showing zero as empty in integer and float inputs
+
 ## [6.27.0] - 2024-02-05
 ### Added
 - First release of collection-level validation rules
