@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.29.0] - 2024-02-20
+### Changed
+- Deprecate `Field.showDropdown`. A dropdown will now automatically be shown for enum fields and text fields with a `dataSource`.
+
 ## [6.28.0] - 2024-02-12
 ### Added
 - Add types for search tool theme config
