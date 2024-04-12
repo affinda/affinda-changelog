@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.30.0] - 2024-04-12
+### Added
+- Added support for resume-v4 (NextGen) in selfhosted
+
 ## [6.29.0] - 2024-02-20
 ### Changed
 - Deprecate `Field.showDropdown`. A dropdown will now automatically be shown for enum fields and text fields with a `dataSource`.
