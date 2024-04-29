@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.31.0] - 2024-04-30
+### Added
+- Add `Field.hideEnumDetail` to hide the hoverable enum value detail icon.
+
 ## [6.30.0] - 2024-04-12
 ### Added
 - Added support for resume-v4 (NextGen) in selfhosted
