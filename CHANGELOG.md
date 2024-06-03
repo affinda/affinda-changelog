@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.32.0] - 2024-06-03
+### Added
+- reading order image
+
+### Changed
+- garbage detector thresholds
+
 ## [6.31.0] - 2024-04-30
 ### Added
 - Add `Field.hideEnumDetail` to hide the hoverable enum value detail icon.
