@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.33.0] - 2024-06-04
+### Added
+- Added support for arbitarily nested validation rule sources across multiple datapoints
+
 ## [6.32.0] - 2024-06-03
 ### Added
 - reading order image
