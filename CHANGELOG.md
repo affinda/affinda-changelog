@@ -6,6 +6,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.37.0] - 2025-03-07
+### Added
+- -
+
+## [6.36.0] - 2025-03-07
+### Added
+- Name post processor
+
+### Fixed
+- Adding organization to collection
+
 ## [6.35.0] - 2025-03-06
 ### Added
 - Adding organization to collection
