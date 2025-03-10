@@ -6,10 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [6.37.0] - 2025-03-07
-### Added
-- -
+## [6.38.0] - 2025-03-11
+### Changed
+- Document status field
 
+## [6.37.0] - 2025-03-07
 ## [6.36.0] - 2025-03-07
 ### Added
 - Name post processor
