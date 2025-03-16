@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.42.0] - 2025-03-17
+### Added
+- Portal v3 migrations
+
 ## [6.41.0] - 2025-03-15
 ## [6.40.0] - 2025-03-12
 ## [6.39.0] - 2025-03-11
