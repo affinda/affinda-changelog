@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [6.43.0] - 2025-03-17
+### Fixed
+- Fixed field definition in migration
+
 ## [6.42.0] - 2025-03-17
 ### Added
 - Portal v3 migrations
