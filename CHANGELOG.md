@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [7.0.0] - 2025-03-20
+### Added
+- Affinda Platform V2.0
+
 ## [6.43.0] - 2025-03-17
 ### Fixed
 - Fixed field definition in migration
