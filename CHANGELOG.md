@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [7.6.0] - 2025-03-25
+### Added
+- Option to disable deskewing
+
 ## [7.5.0] - 2025-03-25
 ## [7.4.0] - 2025-03-25
 ## [7.3.0] - 2025-03-24
