@@ -6,6 +6,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [7.20.0] - 2025-04-17
+### Added
+- Improved document splitter.
+
+### Changed
+- Old splitter hints are no longer valid and should be removed or changed via admin.
+
+### Deprecated
+- Splitter example documents are no longer used.
+
 ## [7.19.0] - 2025-04-16
 ## [7.18.0] - 2025-04-15
 ## [7.17.0] - 2025-04-15
