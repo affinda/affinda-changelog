@@ -6,6 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [7.22.0] - 2025-04-22
 ## [7.21.0] - 2025-04-17
 ### Added
 - Add associate degree post processor
