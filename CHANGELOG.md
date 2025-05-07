@@ -6,6 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [7.30.0] - 2025-05-07
 ## [7.29.0] - 2025-05-05
 ## [7.28.0] - 2025-05-02
 ## [7.27.0] - 2025-05-01
@@ -65,9 +66,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [6.41.0] - 2025-03-15
 ## [6.40.0] - 2025-03-12
 ## [6.39.0] - 2025-03-11
-### Added
--
-
 ## [6.38.0] - 2025-03-11
 ### Changed
 - Document status field
