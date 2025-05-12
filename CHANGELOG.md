@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [7.33.0] - 2025-05-12
+### Added
+- PII redactor
+- Integration app updates
+
 ## [7.32.0] - 2025-05-09
 ### Added
 - Ability to only detect that a document need splitting without actually doing the split
