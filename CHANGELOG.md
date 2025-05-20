@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [7.41.0] - 2025-05-20
+### Added
+- LLM evaluations in admin
+
 ## [7.40.0] - 2025-05-19
 ## [7.39.0] - 2025-05-19
 ## [7.38.0] - 2025-05-19
