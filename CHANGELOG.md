@@ -6,6 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [7.48.0] - 2025-05-29
 ## [7.47.0] - 2025-05-27
 ### Added
 - Ability to configure boost for lookups
