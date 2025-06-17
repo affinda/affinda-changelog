@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [7.56.0] - 2025-06-17
+### Added
+- New image field types
+
 ## [7.55.0] - 2025-06-17
 ## [7.54.0] - 2025-06-16
 ## [7.53.0] - 2025-06-16
